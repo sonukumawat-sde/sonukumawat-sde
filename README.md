@@ -45,7 +45,7 @@
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** [linkedin.com/in/sonukumawat](https://linkedin.com/in/sonukumawat)  
-- 🌐 **Portfolio:** [Visit My Portfolio](https://your-portfolio-link)  
+- 🌐 **Portfolio:** [Visit My Portfolio]([https://your-portfolio-link](https://sonukumawat-sde.github.io/))  
 - 📄 **Resume:** [View My Resume](https://your-resume-link)  
 - 📧 **Email:** [sonukumawat9216@gmail.com](mailto:sonukumawat9216@gmail.com)  
 
