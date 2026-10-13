@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sonu Kumawat</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi , I'm Sonu Kumawat</h1>
+<h3 align="center"> Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sonu%20Kumawat&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
